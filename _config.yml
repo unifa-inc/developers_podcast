@@ -1,16 +1,19 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  hiroaki.akanuma:
+    image_url: /images/actors/hiroaki.akanuma.jpg
+    name: Akanuma Hiroaki
+    url: https://twitter.com/akanuma
+  kozue.tabuchi:
+    image_url: /images/actors/kozue.tabuchi.jpg
+    name: Tabuchi Kozue
+    url: https://www.facebook.com/profile.php?id=100015854472658
+  yoko.tsuruoka:
+    image_url: /images/actors/yoko.tsuruoka.jpg
+    name: Tsuruoka Yoko
+    url: https://twitter.com/tsuru_beer
+author: akanuma
+description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
+description_long: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、技術トピックなどについてゆるく話していく Podcast
 exclude:
   - docker
   - docker-compose.yml
@@ -20,7 +23,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: unifa_dev
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
@@ -29,5 +32,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: UniFa Developer's Podcast
+url: http://tech.unifa-e.com
