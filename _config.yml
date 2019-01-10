@@ -11,7 +11,15 @@ actors:
     image_url: /images/actors/yoko.tsuruoka.jpg
     name: Tsuruoka Yoko
     url: https://twitter.com/tsuru_beer
-author: akanuma
+  kenji.asano:
+    image_url: /images/actors/kenji.asano.jpg
+    name: Asano Kenji
+    url: https://www.facebook.com/ijnekonasa
+  kazuya.shida:
+    image_url: /images/actors/kazuya.shida.jpg
+    name: Shida Kazuya
+    url: 
+author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
 description_long: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、技術トピックなどについてゆるく話していく Podcast
 exclude:
