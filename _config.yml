@@ -19,6 +19,10 @@ actors:
     image_url: /images/actors/kazuya.shida.jpg
     name: Shida Kazuya
     url: 
+  shizuka.kakimoto:
+    image_url: /images/actors/shizuka.kakimoto.jpg
+    name: Kakimoto Shizuka
+    url: https://www.facebook.com/shizuka.kakimoto.9
 author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
 description_long: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、技術トピックなどについてゆるく話していく Podcast
