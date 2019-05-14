@@ -35,6 +35,10 @@ actors:
     image_url: /images/actors/yuki.miyazaki.png
     name: Miyazaki Yuki
     url:
+  masahiko.watanabe:
+    image_url: /images/actors/masahiko.watanabe.png
+    name: Watanabe Masahiko
+    url:
 author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
 description_long: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、技術トピックなどについてゆるく話していく Podcast
