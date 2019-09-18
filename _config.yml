@@ -47,6 +47,14 @@ actors:
     image_url: /images/actors/megumi.saito.jpg
     name: Saito Megumi
     url: https://www.facebook.com/hekoshabo
+  ryusuke.homma:
+    image_url: /images/actors/ryusuke.homma.jpg
+    name: Homma Rysuke
+    url:
+  tamaki.yogai:
+    image_url: /images/actors/tamaki.yogai.png
+    name: Yogai Tamaki
+    url:
 author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
 description_long: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、技術トピックなどについてゆるく話していく Podcast
