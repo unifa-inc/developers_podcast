@@ -55,6 +55,18 @@ actors:
     image_url: /images/actors/tamaki.yogai.png
     name: Yogai Tamaki
     url:
+  azusa.nakayama:
+    image_url: /images/actors/azusa.nakayama.jpg
+    name: Nakayama Azusa
+    url: https://instagram.com/azu.illust/
+  yusuke.miyoshi:
+    image_url: /images/actors/yusuke.miyoshi.jpg
+    name: Miyoshi Yusuke
+    url:
+  kohei.morita:
+    image_url: /images/actors/kohei.morita.png
+    name: Morita Kohei
+    url:
 author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
 description_long: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、技術トピックなどについてゆるく話していく Podcast
