@@ -71,6 +71,14 @@ actors:
     image_url: /images/actors/shingo.suzuki.jpg
     name: Suzuki Shingo
     url: https://twitter.com/mominosin
+  robin.dickson:
+    image_url: /images/actors/robin.dickson.jpg
+    name: Robin Dickson
+    url:
+  harvey.ico:
+    image_url: /images/actors/harvey.ico.jpg
+    name: Harvey Ico
+    url:
 author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
 description_long: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、技術トピックなどについてゆるく話していく Podcast
