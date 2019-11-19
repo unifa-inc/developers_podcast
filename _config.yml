@@ -74,7 +74,7 @@ actors:
   robin.dickson:
     image_url: /images/actors/robin.dickson.jpg
     name: Robin Dickson
-    url:
+    url: https://twitter.com/rbndickson
   harvey.ico:
     image_url: /images/actors/harvey.ico.jpg
     name: Harvey Ico
