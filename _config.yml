@@ -79,6 +79,10 @@ actors:
     image_url: /images/actors/harvey.ico.jpg
     name: Harvey Ico
     url:
+  yutaro.tomoto:
+    image_url: /images/actors/yutaro.tomoto.jpg
+    name: Tomoto Yutaro
+    url: https://twitter.com/YutaroTomoto
 author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
 description_long: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、技術トピックなどについてゆるく話していく Podcast
