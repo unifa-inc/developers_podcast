@@ -83,6 +83,14 @@ actors:
     image_url: /images/actors/yutaro.tomoto.jpg
     name: Tomoto Yutaro
     url: https://twitter.com/YutaroTomoto
+  keita.suzuki:
+    image_url: /images/actors/keita.suzuki.jpg
+    name: Suzuki Keita
+    url:
+  ayako.kiso:
+    image_url: /images/actors/ayako.kiso.png
+    name: Kiso Ayako
+    url:
 author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
 description_long: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、技術トピックなどについてゆるく話していく Podcast
