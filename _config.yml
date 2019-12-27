@@ -91,6 +91,14 @@ actors:
     image_url: /images/actors/ayako.kiso.png
     name: Kiso Ayako
     url:
+  shinichiro.suzuki:
+    image_url: /images/actors/shinichiro.suzuki.jpg
+    name: Suzuki Shinichiro
+    url: https://twitter.com/shinisuz
+  marino.yokoi:
+    image_url: /images/actors/marino.yokoi.jpg
+    name: Yokoi Marino
+    url: https://twitter.com/rinoside
 author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
 description_long: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、技術トピックなどについてゆるく話していく Podcast
