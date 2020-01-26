@@ -103,6 +103,10 @@ actors:
     image_url: /images/actors/hayato.miyoshi.jpg
     name: Miyoshi Hayato
     url: https://twitter.com/miyoshihayato
+  kazumasa.kotaki:
+    image_url: /images/actors/kazumasa.kotaki.jpg
+    name: Kotaki Kazumasa
+    url: https://www.facebook.com/kazumasa.kotaki.3
 author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
 description_long: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、技術トピックなどについてゆるく話していく Podcast
