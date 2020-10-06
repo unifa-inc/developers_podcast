@@ -115,6 +115,14 @@ actors:
     image_url: /images/actors/naoto.watanabe.jpg
     name: Watanabe Naoto
     url:
+  kazuki.matsuda:
+    image_url: /images/actors/kazuki.matsuda.jpg
+    name: Matsuda Kazuki
+    url: https://twitter.com/mats16k
+  akihiro.tsukada:
+    image_url: /images/actors/akihiro.tsukada.png
+    name: Tsukada Akihiro
+    url: https://twitter.com/akitsukada
 author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
 description_long: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、技術トピックなどについてゆるく話していく Podcast
