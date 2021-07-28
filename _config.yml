@@ -131,6 +131,15 @@ actors:
     image_url: /images/actors/takashi.yamamoto.jpg
     name: Yamamoto Takashi
     url: https://twitter.com/taka4yamamoto
+  kei.yamada:
+    image_url: /images/actors/kei.yamada.jpg
+    name: Yamada kei
+    url: 
+  gota.masaki:
+    image_url: /images/actors/gota.masaki.jpg
+    name: Masaki Gota
+    url: https://twitter.com/go_go_pdm
+
 author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
 description_long: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、技術トピックなどについてゆるく話していく Podcast
