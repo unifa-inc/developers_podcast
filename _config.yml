@@ -139,6 +139,14 @@ actors:
     image_url: /images/actors/gota.masaki.jpg
     name: Masaki Gota
     url: https://twitter.com/go_go_pdm
+  masato.nakamura:
+    image_url: /images/actors/masato.nakamura.jpg
+    name: Nakamura Masato
+    url:
+  yuko.fujikawa:
+    image_url: /images/actors/yuko.fujikawa.jpg
+    name: Fujikawa Yuko
+    url:
 
 author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
