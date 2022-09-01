@@ -1,4 +1,7 @@
 /_site
 /.sass-cache
 .ruby-version
+.bundle/
+.vscode/
+vendor/
 .DS_Store

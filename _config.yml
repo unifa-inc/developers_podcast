@@ -147,6 +147,14 @@ actors:
     image_url: /images/actors/yuko.fujikawa.jpg
     name: Fujikawa Yuko
     url:
+  takuro.monji:
+    image_url: /images/actors/takuro.monji.jpg
+    name: Monji Takuro
+    url: https://twitter.com/monzou
+  takayuki.hayashi:
+    image_url: /images/actors/takayuki.hayashi.jpg
+    name: Hayashi Takayuki
+    url: https://twitter.com/t_hyssh
 
 author: UniFa
 description: UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、<br/>技術トピックなどについてゆるく話していく Podcast です。
