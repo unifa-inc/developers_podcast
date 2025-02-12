@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    tty: true
+    stdin_open: true
+    volumes:
+      - ../:/workspace:cached
+      - ${HOME}/.ssh:/home/vscode/.ssh
+      - ${HOME}/.aws:/home/vscode/.aws
+    ports:
+      - "4000:4000"

@@ -1,0 +1,39 @@
+{
+    "name": "${localWorkspaceFolderBasename}",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/workspace",
+    "features": {
+        "ghcr.io/devcontainers/features/common-utils:2": {
+            "installZsh": "true",
+            "username": "vscode",
+            "userUid": "1000",
+            "userGid": "1000",
+            "upgradePackages": "true"
+        },
+        "ghcr.io/devcontainers/features/aws-cli:1": {
+            "version": "latest"
+        }
+    },
+    // Configure tool-specific properties.
+    "customizations": {
+        // Configure properties specific to VS Code.
+        "vscode": {
+            // Add the IDs of extensions you want installed when the container is created.
+            "extensions": [
+                "rebornix.Ruby",
+                "ms-azuretools.vscode-docker",
+                "github.copilot",
+                "github.copilot-chat"
+            ]
+        }
+    },
+    "remoteEnv": {
+        "AWS_CONFIG_FILE": "$HOME/.aws/config_stoken",
+        "AWS_SHARED_CREDENTIALS_FILE": "$HOME/.aws/credentials_stoken"
+    },
+    "forwardPorts": [],
+    "remoteUser": "vscode",
+    "postCreateCommand": "/bin/bash /workspace/.devcontainer/post_create.sh"
+}
+
